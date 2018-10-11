@@ -7,5 +7,10 @@ Powered simulatenously by [NodeJS](https://nodejs.org/en/) and [.NET](https://ww
 * All major audio formats supported, provided corresponding codec availability.
 * No _Electron_.
 
+# ⋮Reassembling⋮
+__Vy:nil__ is being developed in [CoffeeScript 2](http://cofeescript.org/v2/), all centered around [CSCore](https://github.com/filoe/cscore) audio library.  
+Based on no longer actively maintained [nodeclr](https://www.npmjs.com/package/clr) API bridge, it requires _node v0.8.x_ to function.
+Run `main.cs` to start player app.
+
 # ⋮Brief sampling of development process⋮
 ![image](https://user-images.githubusercontent.com/8768470/46826169-fe9c0f00-cd9d-11e8-9af5-326e7a124a01.png)
