@@ -6,3 +6,6 @@ Powered simulatenously by [NodeJS](https://nodejs.org/en/) and [.NET](https://ww
 # ⋮Featuræ⋮
 * All major audio formats supported, provided corresponding codec availability.
 * No _Electron_.
+
+# ⋮Brief sampling of development process⋮
+![image](https://user-images.githubusercontent.com/8768470/46826044-abc25780-cd9d-11e8-9820-7b4ff867cbfd.png)
