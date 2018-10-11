@@ -152,6 +152,7 @@ require('clr').init {assemblies: ['../bin/CSCore.dll', 'System', 'mscorlib']}
 Δexport class MusicBox extends EventEmitter
 	# --Methods goes here.
 	constructor: (source_list, @random = false, @pulse_interval = 1000, @emitter = true) ->
+		super()
 		@output		= new WasapiOut()
 		@repertory	= new PlayList()
 		@load source_list, true
