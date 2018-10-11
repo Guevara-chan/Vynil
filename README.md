@@ -8,4 +8,4 @@ Powered simulatenously by [NodeJS](https://nodejs.org/en/) and [.NET](https://ww
 * No _Electron_.
 
 # ⋮Brief sampling of development process⋮
-![image](https://user-images.githubusercontent.com/8768470/46826044-abc25780-cd9d-11e8-9820-7b4ff867cbfd.png)
+![image](https://user-images.githubusercontent.com/8768470/46826169-fe9c0f00-cd9d-11e8-9af5-326e7a124a01.png)
