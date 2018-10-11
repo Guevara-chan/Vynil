@@ -5,4 +5,4 @@ Powered simulatenously by [NodeJS](https://nodejs.org/en/) and [.NET](https://ww
 
 # ⋮Featuræ⋮
 * All major audio formats supported, provided corresponding codec availability.
-* No _Electron_
+* No _Electron_.
